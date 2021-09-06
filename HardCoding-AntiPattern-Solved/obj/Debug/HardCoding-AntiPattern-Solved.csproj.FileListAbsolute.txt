@@ -1,0 +1,7 @@
+C:\Users\kelem\source\repos\HardCoding-AntiPattern-Solved\HardCoding-AntiPattern-Solved\bin\Debug\HardCoding-AntiPattern-Solved.exe.config
+C:\Users\kelem\source\repos\HardCoding-AntiPattern-Solved\HardCoding-AntiPattern-Solved\bin\Debug\HardCoding-AntiPattern-Solved.exe
+C:\Users\kelem\source\repos\HardCoding-AntiPattern-Solved\HardCoding-AntiPattern-Solved\bin\Debug\HardCoding-AntiPattern-Solved.pdb
+C:\Users\kelem\source\repos\HardCoding-AntiPattern-Solved\HardCoding-AntiPattern-Solved\obj\Debug\HardCoding-AntiPattern-Solved.csprojAssemblyReference.cache
+C:\Users\kelem\source\repos\HardCoding-AntiPattern-Solved\HardCoding-AntiPattern-Solved\obj\Debug\HardCoding-AntiPattern-Solved.csproj.CoreCompileInputs.cache
+C:\Users\kelem\source\repos\HardCoding-AntiPattern-Solved\HardCoding-AntiPattern-Solved\obj\Debug\HardCoding-AntiPattern-Solved.exe
+C:\Users\kelem\source\repos\HardCoding-AntiPattern-Solved\HardCoding-AntiPattern-Solved\obj\Debug\HardCoding-AntiPattern-Solved.pdb
